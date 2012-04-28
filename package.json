@@ -14,5 +14,6 @@
     , "stylus"   : ">= 0.25.0"
     , "gzippo"   : ">= 0.1.4"
     , "express-messages" : ">= 0.0.2"
+    , "colors" : ">=0.6.0-1"
   }
 }
