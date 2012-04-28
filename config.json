@@ -1,0 +1,11 @@
+{
+  "development" : {
+    "mongo_uri": "mongodb://localhost/development"
+  },
+  "staging" : {
+    "mongo_uri": "mongodb://localhost/staging"
+  },
+  "production" : {
+    "mongo_uri": "mongodb://localhost/production"
+  }
+}

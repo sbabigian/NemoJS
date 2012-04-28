@@ -1,0 +1,18 @@
+{
+    "name": "nemojs-boilerplate"
+  , "description": "A boilerplate of node, express, mongoose, jade, and stylus"
+  , "version": "0.0.1"
+  , "private": true
+  , "author": "Steve Babigian (https://github.com/sbabigian)"
+  , "engines": {
+      "node": ">= 0.6.1"
+    }
+  , "dependencies": {
+      "express" : "= 2.5.9"
+    , "jade"    : ">= 0.25.0"
+    , "mongoose": ">= 2.6.0"
+    , "stylus"   : ">= 0.25.0"
+    , "gzippo"   : ">= 0.1.4"
+    , "express-messages" : ">= 0.0.2"
+  }
+}
